@@ -16,7 +16,7 @@ Copyright (c) 2013 Brandon Aaron (http://brandonaaron.net)
 NuGet package
 -------------
 
-https://nuget.org/packages/typecript.bgiframe
+https://nuget.org/packages/typescript.bgiframe
 
 Usage
 -----
