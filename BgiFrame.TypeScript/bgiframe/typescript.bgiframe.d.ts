@@ -30,4 +30,10 @@ module BgiFrame {
         getIframe(element: HTMLElement): HTMLElement;
         prop(n: any): string;
     }
+
+    interface BgiframeStatic extends IBgiframe {
+        new (element?: HTMLElement);
+    }
+
+    //declare var Bgiframe: BgiFrame.BgiframeStatic;
 }
